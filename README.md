@@ -1,6 +1,9 @@
 # PythonPackage
 python package of Question 5 in the Screen test
 
+0,download bubble folder
+![]()
+
 1,open cmd and find the path of setup.py
 ![](https://github.com/Pooooom/PythonPackage/blob/master/1.png)
 
